@@ -1,4 +1,4 @@
-# DataStudio
+# Weka
 En este repositorio encontrarás una práctica con Weka para preparación de datos y Machine Learning.
 
 - Para la preparación de datos se usó el dataset datos_credito_alemania.
